@@ -10,7 +10,7 @@ const CONFIG = {
   description: "الوصف اللي هيظهر في نتائج البحث هنا", // meta description
   siteName: "اسم الموقع الوهمي",                    // اسم الموقع في OG و السكيما
   image: "https://your-image-host.com/thumb.png",  // صورة المقال/الفيديو (og:image + thumbnail)
-  pageUrl: "https://script.google.com/macros/s/ضع-رابط-السكربت-هنا/exec", // بعد النشر حط رابط صفحتك
+  pageUrl: "https://script.google.com/macros/s/AKfycbzGjyYi86FElaQ3wd7-oqti8Layjpv0q0CDhqON5qSCkij0t09uNTyDEGJRdfFd4skPiw/exec", // بعد النشر حط رابط صفحتك
 
   // المقال الحامل: {K} = مكان حقن الكلمة — انسخ مقال حقيقي وبدّل الأسماء بـ {K}
   articleBody: "{K} live: {K} look to seize control of thrilling {K}. Every team in the {K} has two wins apiece as we go into the final two game weeks. {K} will host {K} at the stadium with the {K} a single point ahead of {K} in the standings.",
